@@ -1,0 +1,1 @@
+Here now we are not persisting data,to persist the data we need to use another react hook called the useEffect Hook.
